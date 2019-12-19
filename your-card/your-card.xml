@@ -32,9 +32,9 @@ If you want to change the text color, you have to fill the fields with the color
 <your_card>
 
 <your_message>
-We wish you a Merry Christmas,
-good luck, health, business 
-and personal success
+We wish you a Merry 
+Christmas, good luck, health, 
+business and personal success
 for the coming year 2020.
 .....................
 Merry Christmas!
@@ -56,7 +56,7 @@ Changes in text size, color and font. Follow the instructions to help. -->
 
 <message_font_url>https://fonts.googleapis.com/css?family=Kalam&amp;subset=latin,latin-ext</message_font_url>
 
-<message_size>28</message_size>
+<message_size>26</message_size>
 
 <message_color_red>255</message_color_red>
 
